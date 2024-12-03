@@ -100,3 +100,5 @@ An optional comma-separated list of allowed origins for CORS (defaults to `*`). 
 | Required      | No                                                                  |
 | Sample Value  | `https://mywebapp.org,https://mywebapp.com`                         |
 | Documentation | [MDN: CORS](https://developer.mozilla.org/en-US/docs/Web/HTTP/CORS) |
+
+Test
