@@ -5,9 +5,13 @@
   "main": "src/main.js",
   "type": "module",
   "scripts": {
+    "start": "node src/main.js",
+    "setup": "echo 'Setup complete!'",
     "format": "prettier --write ."
   },
   "dependencies": {
+    "appwrite": "^16.0.2",
+    "dotenv": "^16.4.7",
     "nodemailer": "^6.9.13"
   },
   "devDependencies": {
